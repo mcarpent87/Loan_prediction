@@ -35,6 +35,6 @@ purpose: The purpose of the loan (takes values "credit_card", "debt_consolidatio
 # To View and play with this repo locally:
 1. **Git clone or download zip**
 2. **You need to install anaconda [Anaconda Docs](https://docs.anaconda.com/anaconda/install/).**
-**3. After Anaconda is installed, open Jupyter Notebooks.**
-**4. Connect to the file path where the repo is located on your local machine in Jupyter Notebooks.**
-**5. Open loan_prediction.ipynb**
+3. **After Anaconda is installed, open Jupyter Notebooks.**
+4. **Connect to the file path where the repo is located on your local machine in Jupyter Notebooks.**
+5. **Open loan_prediction.ipynb**
